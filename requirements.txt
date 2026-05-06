@@ -1,3 +1,7 @@
 streamlit
 anthropic
 requests
+pandas
+plotly
+wordcloud
+matplotlib
